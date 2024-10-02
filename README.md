@@ -5,6 +5,9 @@ This repository contains various assembly language tasks and exercises designed 
 Getting Started
 To get started with the tasks in this repository, clone the repo and navigate to the task directory:
 
-1. Clone the Repository:  
-   `[git clone https://github.com/Muhammad-Roshaan-Idrees/Assembly_Language.git](https://github.com/Muhammad-Roshaan-Idrees/Assembly_Language.git)`
+1. Clone the Repository:
+
+   ```bash
+   git clone https://github.com/Saad123ali/ALL-DSA-LAB-TASK.git
+
 
