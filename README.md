@@ -6,4 +6,4 @@ Getting Started
 To get started with the tasks in this repository, clone the repo and navigate to the task directory:
 
 git clone https://github.com/Muhammad-Roshaan-Idrees/Assembly_Language.git
-cd ASM-Task
+cd Assembly_Language
